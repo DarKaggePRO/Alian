@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "RobotoRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "RobotoCondensed-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.woff") format("woff"), url("../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "RobotoCondensed-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.woff") format("woff"), url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.ttf") format("truetype"); }
